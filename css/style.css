@@ -136,12 +136,12 @@ img {
     }
  }
 
-/* SCREEN @768px
+/* SCREEN @768px  Questo è solo ai fini dell'esercizio in quanto verrebbe comunque ereditato dal precedente e non essendoci altre modifiche risulta superfluo*/
  @media screen and (max-width: 768px) {
     .container {
         width: 100%;
     }
- } */
+ }
 
 /* SCREEN @480px */
  @media screen and (max-width: 480px) {
